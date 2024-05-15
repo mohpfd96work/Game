@@ -7,9 +7,14 @@
 - [Installation](#installation)
 - [License](#license)
 
+
 ## Introduction
 
 Shapes move and you have to catch them!
+
+
+## Demo
+[Try Demo](https://mohpfd96.github.io/Game/)
 
 
 ## Installation
@@ -17,6 +22,7 @@ Shapes move and you have to catch them!
 ```bash
 npm install
 ```
+
 
 ## License
 
