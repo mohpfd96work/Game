@@ -14,7 +14,7 @@ Shapes move and you have to catch them!
 
 
 ## Demo
-[Try Demo](https://mohpfd96.github.io/Game/)
+[Try Demo](https://mohpfd96work.github.io/Game/)
 
 
 ## Installation
